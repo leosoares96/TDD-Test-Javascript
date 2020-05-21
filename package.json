@@ -1,0 +1,23 @@
+{
+  "name": "fdd-test-javascript",
+  "version": "1.0.0",
+  "description": "testes js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leosoares96/FDD-Test-Javascript.git"
+  },
+  "author": "Leonardo Soares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leosoares96/FDD-Test-Javascript/issues"
+  },
+  "homepage": "https://github.com/leosoares96/FDD-Test-Javascript#readme",
+  "devDependencies": {
+    "mocha": "^7.1.2",
+    "should": "^13.2.3"
+  }
+}
